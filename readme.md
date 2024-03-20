@@ -62,7 +62,7 @@ To run the Contact Management System:
 4. Run the following command to execute the program:
 
    ```bash
-   python contact_management_system.py
+   python mini-project.py
    ```
 
 ## Requirements
