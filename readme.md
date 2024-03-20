@@ -24,6 +24,16 @@ The `search_contact` function enables users to search for a contact by name, pho
 
 The `display_all_contacts` function displays a list of all contacts along with their details. It prompts the user to specify a sorting option (by name, category, email, or none) and arranges the contacts accordingly. Custom fields for each contact are also displayed if they exist.
 
+### Export contacts as txt
+
+The `export_contacts` function export all recorded contacts as tct file.
+
+### Import txt contacts
+
+The `import_contacts` function imports contacts from a txt file.
+
+## Others
+
 ### Categorize Contacts
 
 The `categories` attribute allows users to categorize contacts into predefined categories such as Friends, Family, and Colleagues. When adding or editing a contact, the user can choose the appropriate category from the predefined list.
